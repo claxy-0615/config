@@ -1,7 +1,4 @@
-spring:
-  profiles: dev     #开发环境
-  application: 
-    name: microservicecloud-config-atguigu-dev
-
+config:
+   info: "dev : this is a branch named master"
  
  
